@@ -1,4 +1,4 @@
-@@ -1,13 +1,13 @@
+
 <h1 align="center">Hi 👋, I'm TARUN SHARMA </h1>
 <h3 align="center">A problem solving frontend developer AND backend</h3>
 
